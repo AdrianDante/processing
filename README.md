@@ -1,4 +1,4 @@
-# Processing
+
 https://processing.org/
 
 Processing was to me a kick-off into the programming world. 
@@ -9,7 +9,7 @@ From time to time I will be uploading a few old project that where lost
 but should not be hard to reproduce, and maybe also try something new.
 
 
-<h1>1. Planets</h1>
+<h2>1. Planets</h2>
   
 <img src="planetsGIF.gif" alt="drawing" width="30%"/>
 
