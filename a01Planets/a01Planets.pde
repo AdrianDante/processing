@@ -1,6 +1,6 @@
 float x = 0.01;
 float sunSize = 1392000/50;
-  float sunR = 63;
+float sunR = 63;
 Planet sun;
 Planet mercury;
 Planet venus;
