@@ -9,7 +9,7 @@ From time to time I will be uploading a few old project that where lost
 but should not be hard to reproduce, and maybe also try something new.
 
 
-1. Planets
+<h1>1. Planets</h1>
   
 <img src="planetsGIF.gif" alt="drawing" width="30%"/>
 
