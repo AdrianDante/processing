@@ -5,7 +5,7 @@ Processing was to me a kick-off into the programming world.
 Though I moved on quickly to other languages, here is an homage to
 Processing, my first steps.
 
-From time to time I will be uploading a few old project that where lost 
+From time to time I will be uploading a few old project that were lost 
 but should not be hard to reproduce, and maybe also try something new.
 
 
